@@ -32,7 +32,6 @@ Update `src/main/resources/application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/university_db
 spring.datasource.username=root
-spring.datasource.password=Srij@207
 ```
 
 ### 3. Build and Run
